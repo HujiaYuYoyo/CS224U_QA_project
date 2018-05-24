@@ -1,0 +1,64 @@
+what is the city adjoining siegburg?
+siegburg
+Bonn
+
+who is the author of uncle silas?
+uncle_silas
+Sheridan le Fanu
+
+what is the capital of tunisia?
+tunisia
+Tunis
+
+where is the kuala lumpur sentral railway station?
+kuala_lumpur_sentral_railway_station
+Brickfields
+
+who stars in the great buck howard?
+the_great_buck_howard
+Colin Hanks
+
+who is the founder of bomis?
+bomis
+Jimmy Wales
+
+what is sparql?
+sparql
+semantic query language
+
+what is the name of ari emanuel's brother?
+ari_emanuel
+Rahm Emanuel
+
+what is the name of percy bysshe shelley's wife?
+percy_bysshe_shelley
+Mary Shelley
+
+what does bhanu athaiya do?
+bhanu_athaiya
+costume designer
+
+where is ruben rausing from?
+ruben_rausing
+Sweden
+
+who is prince arthur of connaught's father?
+prince_arthur_of_connaught
+Prince Arthur, Duke of Connaught and Strathearn
+
+where was william penny brookes born?
+william_penny_brookes
+Much Wenlock
+
+where did jean drapeau die?
+jean_drapeau
+Montreal
+
+what does rufus wainwright do?
+rufus_wainwright
+actor
+
+where did ray jackendoff work?
+ray_jackendoff
+Tufts University
+
