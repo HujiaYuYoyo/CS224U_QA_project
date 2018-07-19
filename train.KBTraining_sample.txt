@@ -1,0 +1,1154 @@
+what state does selena gomez?
+selena gomez
+m.0gs6vr
+people.person.places_lived..people.place_lived.location
+
+where does joey king live?
+joey king
+m.03yk4pb
+people.person.places_lived..people.place_lived.location
+
+where did bob barker grow up?
+bob barker
+m.01ydhd
+people.person.places_lived..people.place_lived.location
+
+where does selena gomez live map?
+selena gomez
+m.0gs6vr
+people.person.places_lived..people.place_lived.location
+
+where was president lyndon johnson from?
+lyndon johnson
+m.0f7fy
+people.person.places_lived..people.place_lived.location
+
+where did john howard live?
+john howard
+m.0chh05
+people.person.places_lived..people.place_lived.location
+
+where does ben stiller live in ny?
+ben stiller
+m.0mdqp
+people.person.places_lived..people.place_lived.location
+
+what country did osama bin laden live in?
+osama bin laden
+m.05mg9
+people.person.places_lived..people.place_lived.location
+
+where did laura ingalls wilder live?
+laura ingalls wilder
+m.01bt87
+people.person.places_lived..people.place_lived.location
+
+where is ellis park rugby stadium?
+ellis park rugby stadium
+m.01k9pb
+people.person.places_lived..people.place_lived.location
+
+who does joakim noah play for?
+joakim noah
+m.0c2yrf
+sports.drafted_athlete.drafted..sports.sports_league_draft_pick.team
+
+who did plaxico burress sign with 2012?
+plaxico burress
+m.047j_j
+sports.drafted_athlete.drafted..sports.sports_league_draft_pick.team
+
+who did jerry rice retire with?
+jerry rice
+m.0240vt
+sports.drafted_athlete.drafted..sports.sports_league_draft_pick.team
+
+what team does plaxico burress play for?
+plaxico burress
+m.047j_j
+sports.drafted_athlete.drafted..sports.sports_league_draft_pick.team
+
+who drafted kevin garnett?
+kevin garnett
+m.02lm0t
+sports.drafted_athlete.drafted..sports.sports_league_draft_pick.team
+
+what kind of money to take to bahamas?
+bahamas
+m.0160w
+location.country.currency_used
+
+what country is the grand bahama island in?
+grand bahama island
+m.03st9j
+location.location.containedby
+
+what country does iceland belong to?
+iceland
+m.03rj0
+book.book_subject.works
+
+what's the book hitler wrote in prison?
+hitler
+m.07_m9_
+book.book_subject.works
+
+when did mayans predict end of the world?
+mayans
+m.0d7v_
+book.book_subject.works
+
+which is faster amd dual core or intel dual core?
+intel
+m.03s7h
+book.book_subject.works
+
+where in the bible does it talk about david?
+david
+m.02cvn
+book.book_subject.works
+
+what does the mayan calendar say about 2012?
+mayan
+m.0d7v_
+book.book_subject.works
+
+where do tasmanian devils live?
+tasmanian
+m.07cfx
+book.book_subject.works
+
+what wars did ulysses s grant served in?
+ulysses s grant
+m.07t2k
+book.book_subject.works
+
+which countries border the us?
+us
+m.09c7w0
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+
+what 6 states border south dakota?
+dakota
+m.06mz5
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+
+where is isthmus of panama located?
+panama
+m.05qx1
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+
+what three continents touch the atlantic ocean?
+atlantic ocean
+m.0j3b
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+
+which country does south africa border 2 the north?
+south africa
+m.0hzlz
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+
+which country is to the north of the united states of america?
+united states
+m.09c7w0
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+
+what 3 states border the pacific ocean?
+pacific ocean
+m.05rgl
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+
+what country is next to russia?
+russia
+m.06bnz
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+
+what 5 countries border ethiopia?
+ethiopia
+m.019pcs
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+
+what countries does armenia border?
+armenia
+m.0jgx
+location.location.adjoin_s..location.adjoining_relationship.adjoins
+
+what to see near sedona arizona?
+sedona arizona
+m.0ny57
+travel.travel_destination.tourist_attractions
+
+where to fly into bali?
+bali
+m.01bkb
+travel.travel_destination.how_to_get_here..travel.transportation.transport_terminus
+
+what high school did president bill clinton attend?
+bill clinton
+m.0157m
+people.person.education..education.education.institution
+
+who did the philippines gain independence from?
+philippines
+m.05v8c
+military.military_combatant.military_conflicts..military.military_combatant_group.combatants
+
+what are the best places to go in germany?
+germany
+m.0345h
+travel.travel_destination.tourist_attractions
+
+what to see in staten island new york?
+staten island new york
+m.0y62n
+travel.travel_destination.tourist_attractions
+
+what to do with kids in phx az?
+az
+m.0d35y
+travel.travel_destination.tourist_attractions
+
+what to do in palo alto ca with kids?
+palo alto
+m.0f04c
+travel.travel_destination.tourist_attractions
+
+what to see in london in june 2012?
+london
+m.04jpl
+travel.travel_destination.tourist_attractions
+
+what do people go to amsterdam for?
+amsterdam
+m.0k3p
+travel.travel_destination.tourist_attractions
+
+what is the president of brazil?
+brazil
+m.015fr
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+
+who is the elected governor of california?
+california
+m.01n7q
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+
+who is president of pakistan 2012?
+pakistan
+m.05sb1
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+
+who won the presidential race in venezuela?
+venezuela
+m.07ylj
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+
+who won the state of texas in 2008?
+texas
+m.07b_l
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+
+who was the prime minister of canada in 1998?
+prime minister of canada
+m.0d060g
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+
+who is the current governor of georgia 2011?
+georgia
+m.0d0x8
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+
+what is martin cooper doing now?
+martin cooper
+m.0bt6kc
+people.person.profession
+
+what did jeff corwin major in?
+jeff corwin
+m.03xsv3
+people.person.profession
+
+what job does bill rancic have?
+bill rancic
+m.02skv6
+people.person.profession
+
+who was the real erin brockovich?
+erin brockovich
+m.02nxk
+people.person.profession
+
+who juan ponce de leon?
+juan ponce de leon
+m.0123f1
+people.person.profession
+
+what does kenya moore do for a living?
+kenya moore
+m.08cpnf
+people.person.profession
+
+what was antonio vivaldi known for?
+antonio vivaldi
+m.0pth
+people.person.profession
+
+what did johannes kepler accomplish?
+johannes kepler
+m.0403d
+people.person.profession
+
+what movies does taylor lautner play in?
+taylor lautner
+m.07ldhs
+award.award_nominee.award_nominations..award.award_nomination.nominated_for
+
+what movies has angelina jolie in?
+angelina jolie
+m.0f4vbz
+award.award_nominee.award_nominations..award.award_nomination.nominated_for
+
+what movies did howard shore wrote the music for?
+howard shore
+m.01tc9r
+award.award_nominee.award_nominations..award.award_nomination.nominated_for
+
+what movies does taylor lautner play in?
+taylor lautner
+m.07ldhs
+award.award_nominee.award_nominations..award.award_nomination.nominated_for
+
+what movies star adam sandler?
+adam sandler
+m.0pz91
+award.award_nominee.award_nominations..award.award_nomination.nominated_for
+
+what does duffy sing?
+duffy
+m.03h3y8v
+award.award_nominee.award_nominations..award.award_nomination.nominated_for
+
+what movie does natalie portman play in?
+natalie portman
+m.09l3p
+award.award_nominee.award_nominations..award.award_nomination.nominated_for
+
+what movies has renee zellweger been in?
+renee zellweger
+m.01c_zw
+award.award_nominee.award_nominations..award.award_nomination.nominated_for
+
+what do barack obama do as a president?
+barack obama
+m.02mjmr
+award.award_nominee.award_nominations..award.award_nomination.nominated_for
+
+what movies johnny depp is in?
+johnny depp
+m.0jfx1
+award.award_nominee.award_nominations..award.award_nomination.nominated_for
+
+what form of government does russia have today?
+russia
+m.06bnz
+location.country.form_of_government
+
+what was the roman political system?
+roman
+m.06cmp
+location.country.form_of_government
+
+what government type is north korea?
+north korea
+m.05b7q
+location.country.form_of_government
+
+what kind of government iran have?
+iran
+m.03shp
+location.country.form_of_government
+
+what political system is in china?
+china
+m.0d05w3
+location.country.form_of_government
+
+what is the political system in argentina?
+argentina
+m.0jgd
+location.country.form_of_government
+
+what type of political system is spain?
+spain
+m.06mkj
+location.country.form_of_government
+
+what type of monarchy did england have during the glorious revolution?
+england
+m.02jx1
+location.country.form_of_government
+
+how much did adriana lima gain during pregnancy?
+adriana lima
+m.03qvwf
+tv.tv_actor.starring_roles..tv.regular_tv_appearance.series
+
+what did the german revolution lead to?
+german
+m.04306rv
+language.human_language.countries_spoken_in
+
+what party was andrew jackson?
+andrew jackson
+m.0rlz
+government.politician.party..government.political_party_tenure.party
+
+who was ishmael's mom?
+ishmael
+m.01ghr4
+people.person.parents
+
+where are the netherlands on a world map?
+netherlands on a world
+m.059j2
+location.administrative_division.first_level_division_of
+
+what city did esther live in?
+esther
+m.02pn7
+people.person.place_of_birth
+
+what sport do the toronto maple leafs play?
+toronto maple leafs
+m.0j6tr
+sports.sports_team.sport
+
+what is saint nicholas known for?
+saint nicholas
+m.05hks
+people.person.sibling_s..people.sibling_relationship.sibling
+
+what is cher's son's name?
+cher
+m.01vtj38
+people.person.children
+
+which wife did king henry behead?
+king henry
+m.05pn8z
+film.film_subject.films
+
+what type of car does michael weston drive?
+michael weston
+m.06jczl
+film.actor.film..film.performance.film
+
+what movies did charlie hunnam play in?
+charlie hunnam
+m.057yk8
+film.actor.film..film.performance.film
+
+what films has gerard butler starred in?
+gerard butler
+m.038rzr
+film.actor.film..film.performance.film
+
+what movies is molly ringwald in?
+molly ringwald
+m.01wq0_s
+film.actor.film..film.performance.film
+
+what movies did robert blake play in?
+robert blake
+m.01jx92
+film.actor.film..film.performance.film
+
+what movies has michael clarke duncan been in?
+michael clarke duncan
+m.02lkcc
+film.actor.film..film.performance.film
+
+what has ian somerhalder played in?
+ian somerhalder
+m.044mvs
+film.actor.film..film.performance.film
+
+what movies does matt damon play in?
+matt damon
+m.0169dl
+film.actor.film..film.performance.film
+
+where does lena river begin and end?
+lena river
+m.0203mm
+geography.river.origin
+
+what county is heathrow airport in?
+heathrow airport
+m.03jn4
+travel.transport_terminus.travel_destinations_served..travel.transportation.travel_destination
+
+what is medicare a?
+medicare
+m.0fzh9
+business.brand.owner_s..business.company_brand_relationship.company
+
+where did dmitri mendeleev study science?
+dmitri mendeleev
+m.0gglj
+people.person.education..education.education.institution
+
+what was tupac name in juice?
+tupac
+m.07pzc
+film.actor.film..film.performance.character
+
+what is there to do in laredo tx?
+laredo tx
+m.010bnr
+location.location.contains
+
+who does maggie grace play in taken?
+maggie grace
+m.03_wpf
+film.actor.film..film.performance.character
+
+what style of music did louis armstrong play?
+louis armstrong
+m.04n32
+music.artist.genre
+
+what character did john noble play in lord of the rings?
+john noble
+m.02fgm7
+film.actor.film..film.performance.character
+
+what was the name of frederick douglass book?
+frederick douglass
+m.02zg0
+book.book_subject.works
+
+who was queen victoria's parents called?
+queen victoria
+m.0cw10
+people.person.parents
+
+what movies did sally field win an oscar for?
+sally field
+m.01jw4r
+award.award_winner.awards_won..award.award_honor.honored_for
+
+where does jackie french live?
+jackie french
+m.0c9xl9
+people.person.nationality
+
+what form of government was practiced in sparta?
+sparta
+m.09472
+location.country.form_of_government
+
+what year lebron james came to the nba?
+lebron james
+m.01jz6d
+basketball.basketball_player.player_statistics..basketball.basketball_player_stats.season
+
+what college did matt lauer attend?
+matt lauer
+m.049_zz
+people.person.education..education.education.institution
+
+who did draco malloy end up marrying?
+draco
+m.0c2m4
+fictional_universe.fictional_character.married_to..fictional_universe.marriage_of_fictional_characters.spouses
+
+where to exchange euros in pittsburgh?
+pittsburgh
+m.068p2
+location.us_county.county_seat
+
+what are the names of walt disney kids?
+walt disney
+m.081nh
+people.person.children
+
+who was peter parker's first girlfriend?
+peter parker
+m.03f3r9
+comic_books.comic_book_series.publisher
+
+who was vincent van gogh inspired by?
+vincent van gogh
+m.07_m2
+influence.influence_node.influenced_by
+
+when did the new york knicks win a championship?
+new york knicks
+m.0jm3v
+sports.sports_team.championships
+
+what is the official language of china 2010?
+china
+m.0d05w3
+location.country.languages_spoken
+
+when is summer in australia sydney?
+australia sydney
+m.06y57
+location.location.contains
+
+what tv show did joey lawrence play on?
+joey lawrence
+m.01pr9kj
+tv.tv_actor.starring_roles..tv.regular_tv_appearance.series
+
+who is the prime minister of ethiopia?
+ethiopia
+m.019pcs
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+
+what character did brian austin green play on 90210?
+brian austin green
+m.01npcy7
+tv.tv_actor.starring_roles..tv.regular_tv_appearance.character
+
+what language do the speak in pakistan?
+pakistan
+m.05sb1
+location.country.official_language
+
+where is santa clara university?
+santa clara university
+m.027xx3
+location.location.containedby
+
+which part of korea is communist?
+korea
+m.048fz
+location.location.contains
+
+where did timothy mcveigh go to prison?
+timothy mcveigh
+m.07rp8
+people.deceased_person.place_of_death
+
+what sea does the yangtze river flow into?
+yangtze river
+m.01y4t
+geography.river.mouth
+
+who miley cyrus engaged to?
+miley cyrus
+m.0bdxs5
+people.person.spouse_s..people.marriage.spouse
+
+where to go in london england?
+london england
+m.04jpl
+travel.travel_destination.tourist_attractions
+
+what school did joan miro attend?
+joan miro
+m.0g_6k
+people.person.education..education.education.institution
+
+where did france colonise?
+france
+m.0f8l9c
+location.country.first_level_divisions
+
+who founded the roanoke settlement?
+roanoke settlement
+m.02p0w8z
+location.location.events
+
+what kind of money should i take to jamaica?
+jamaica
+m.03_r3
+location.country.currency_used
+
+who is robert downey jr wife?
+robert downey jr
+m.016z2j
+people.person.spouse_s..people.marriage.spouse
+
+where do the ny rangers play?
+ny rangers
+m.0hmtk
+sports.sports_team.arena_stadium
+
+when will oscar pistorius compete?
+oscar pistorius
+m.0f1lfn
+olympics.olympic_athlete.country..olympics.olympic_athlete_affiliation.olympics
+
+what awards has louis sachar won?
+louis sachar
+m.01bq8d
+award.award_winner.awards_won..award.award_honor.award
+
+who are the current senators from missouri?
+missouri
+m.04ych
+government.political_district.representatives..government.government_position_held.office_holder
+
+who was the president after jfk died?
+jfk
+m.0d3k14
+government.us_president.vice_president
+
+what is the best currency to take to egypt 2013?
+egypt 2013
+m.02k54
+location.country.currency_used
+
+what are the countries in the united kingdom?
+united kingdom
+m.07ssc
+location.country.first_level_divisions
+
+what planes does the navy have?
+navy
+m.07wg3
+aviation.aircraft_owner.aircraft_fleet_composition..aviation.aircraft_ownership_count.aircraft_model
+
+where did benjamin franklin died?
+benjamin franklin
+m.019fz
+people.deceased_person.place_of_death
+
+what to do in cancun with family?
+cancun
+m.01q98m
+travel.travel_destination.tourist_attractions
+
+what is the local language of israel?
+israel
+m.03spz
+language.human_language.region
+
+what's the national sport of puerto rico?
+puerto rico
+m.05r7t
+sports.sports_team_location.teams
+
+what religion are people in russia?
+russia
+m.06bnz
+location.statistical_region.religions..location.religion_percentage.religion
+
+what did shawnee smith play in?
+shawnee smith
+m.06t3nj
+film.actor.film..film.performance.film
+
+what countries did queen victoria reign over?
+queen victoria
+m.0cw10
+people.person.nationality
+
+where does the un get its funding?
+un
+m.07t65
+organization.organization.child..organization.organization_relationship.child
+
+where did dr seuss go to school?
+seuss
+m.02g3w
+people.person.education..education.education.institution
+
+what team does luis suarez play for?
+luis suarez
+m.026f4lr
+sports.pro_athlete.teams..sports.sports_team_roster.team
+
+what are dollars called in spain?
+spain
+m.06mkj
+location.country.currency_formerly_used
+
+who plays meg in family guy?
+meg in family
+m.035szd
+film.film_character.portrayed_in_films..film.performance.actor
+
+what high school did tim allen go to?
+tim allen
+m.019vgs
+people.person.education..education.education.institution
+
+what is the world's tallest building in dubai called?
+dubai
+m.01f08r
+travel.travel_destination.tourist_attractions
+
+what jobs did ben franklin do?
+ben franklin
+m.019fz
+people.person.profession
+
+what bible does the catholic church follow?
+catholic church
+m.0c8wxp
+religion.religion.texts
+
+who plays lola bunny in the looney tunes show?
+lola bunny
+m.0534r8
+film.film_character.portrayed_in_films..film.performance.actor
+
+where did martin luther king got shot?
+martin luther king
+m.051cc
+people.deceased_person.place_of_death
+
+who does christina milian have a baby by?
+christina milian
+m.030bq5
+people.person.spouse_s..people.marriage.spouse
+
+what year did tut became king?
+tut
+m.07hcc
+royalty.monarch.royal_line
+
+who is the current president of the dominican republic in 2010?
+dominican republic
+m.027rn
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+
+who has been married to julia roberts?
+julia roberts
+m.046zh
+people.person.spouse_s..people.marriage.spouse
+
+what years have the dallas cowboys won the superbowl?
+dallas cowboys
+m.02896
+sports.sports_team.championships
+
+who is the president of the european union 2011?
+european union
+m.02jxk
+government.governmental_jurisdiction.governing_officials..government.government_position_held.office_holder
+
+what movie did james frey write?
+james frey
+m.06w054
+film.writer.film
+
+what did rob kardashian get surgery for?
+rob kardashian
+m.043n6dp
+medicine.notable_person_with_medical_condition.condition
+
+who does brandon dubinsky play for?
+brandon dubinsky
+m.02863hf
+sports.pro_athlete.teams..sports.sports_team_roster.team
+
+who all has dated taylor swift?
+taylor swift
+m.0dl567
+celebrities.celebrity.sexual_relationships..celebrities.romantic_relationship.celebrity
+
+who is angelina jolie husband name?
+angelina jolie
+m.0f4vbz
+celebrities.celebrity.sexual_relationships..celebrities.romantic_relationship.celebrity
+
+who is rob kardashian dating now 2012?
+rob kardashian
+m.043n6dp
+celebrities.celebrity.sexual_relationships..celebrities.romantic_relationship.celebrity
+
+who did elvis presley really love?
+elvis presley
+m.02jq1
+celebrities.celebrity.sexual_relationships..celebrities.romantic_relationship.celebrity
+
+who is angelina jolie's husband?
+angelina jolie
+m.0f4vbz
+celebrities.celebrity.sexual_relationships..celebrities.romantic_relationship.celebrity
+
+who all has kim kardashian dated?
+kim kardashian
+m.0261x8t
+celebrities.celebrity.sexual_relationships..celebrities.romantic_relationship.celebrity
+
+who did jon gosselin cheat with?
+jon gosselin
+m.046s1z1
+celebrities.celebrity.sexual_relationships..celebrities.romantic_relationship.celebrity
+
+who did michael jordan marry?
+michael jordan
+m.054c1
+celebrities.celebrity.sexual_relationships..celebrities.romantic_relationship.celebrity
+
+who did george lucas get engaged to?
+george lucas
+m.0343h
+celebrities.celebrity.sexual_relationships..celebrities.romantic_relationship.celebrity
+
+what is the dominant language in israel?
+israel
+m.03spz
+language.human_language.region
+
+what movie did angelina jolie direct?
+angelina jolie
+m.0f4vbz
+film.director.film
+
+what is henry clay known for?
+henry clay
+m.0ct18
+people.person.profession
+
+who did axl rose marry?
+axl
+m.01vv6xv
+people.person.spouse_s..people.marriage.spouse
+
+what is the name of the first harry potter novel?
+harry potter
+m.078ffw
+book.literary_series.works_in_this_series
+
+what is the money of spain called?
+spain
+m.06mkj
+location.statistical_region.minimum_wage..measurement_unit.recurring_money_value.currency
+
+what did nick clegg study at university?
+nick clegg
+m.036547
+people.person.education..education.education.major_field_of_study
+
+where did c.s. lewis go to college?
+c.s. lewis
+m.01wd02c
+people.person.education..education.education.institution
+
+what cities does ryanair fly to?
+ryanair
+m.01m_zd
+aviation.airline.airports_served..aviation.airline_airport_presence.cities_served
+
+what currency does ontario canada use?
+ontario canada
+m.05kr_
+location.statistical_region.gdp_nominal..measurement_unit.dated_money_value.currency
+
+what instrument does justin bieber?
+justin bieber
+m.06w2sn5
+music.group_member.instruments_played
+
+what team did shaq play for first?
+shaq
+m.012xdf
+sports.drafted_athlete.drafted..sports.sports_league_draft_pick.team
+
+what years did brett favre go to the super bowl?
+brett favre
+m.0cv72h
+sports.sports_award_winner.awards..sports.sports_award.season
+
+when does harry potter come out on dvd deathly hallows 2?
+harry potter
+m.078ffw
+book.book_subject.works
+
+where was kennedy when he got shot?
+kennedy
+m.0d3k14
+people.deceased_person.place_of_death
+
+who do derek fisher play for?
+derek fisher
+m.04lvwk
+sports.drafted_athlete.drafted..sports.sports_league_draft_pick.team
+
+where did the casey anthony case take place?
+casey anthony
+m.04gtx2_
+time.event.locations
+
+what did st. matthew do?
+st. matthew
+m.038v8
+book.book.editions
+
+what was the name of the original seattle baseball team?
+seattle baseball
+m.0d9jr
+sports.sports_team_location.teams
+
+what type of monarchy did england have?
+england
+m.02jx1
+location.country.form_of_government
+
+when were the texas rangers started?
+texas rangers
+m.07l8x
+sports.sports_team.founded
+
+where are sunbeam microwaves made?
+sunbeam
+m.067m_y
+organization.organization.headquarters..location.mailing_address.state_province_region
+
+what language does fiji?
+fiji
+m.02wt0
+location.country.official_language
+
+who did rufus wainwright married?
+rufus wainwright
+m.02_t2t
+people.person.spouse_s..people.marriage.spouse
+
+where did pauley perrette go to college?
+pauley perrette
+m.06z8cv
+people.person.education..education.education.institution
+
+where does niles crane live?
+niles crane
+m.02c81m
+fictional_universe.fictional_character.places_lived
+
+where is jay cutler now?
+jay cutler
+m.097hft
+sports.pro_athlete.teams..sports.sports_team_roster.team
+
+what are eu countries?
+eu countries
+m.02jxk
+organization.membership_organization.members..organization.organization_membership.member
+
+what influenced vincent van gogh work?
+vincent van gogh
+m.07_m2
+influence.influence_node.influenced_by
+
+which countries are part of the united kingdom?
+united kingdom
+m.07ssc
+location.location.containedby
+
+what is the postcode for london?
+london
+m.04jpl
+location.citytown.postal_codes
+
+what other books did jules verne wrote?
+jules verne
+m.04093
+book.author.book_editions_published
+
+what is the currency name of brazil?
+brazil
+m.015fr
+location.country.currency_used
+
+what language do australian people speak?
+australian
+m.0chghy
+location.country.languages_spoken
+
+who did ben stiller play in megamind?
+ben stiller
+m.0mdqp
+film.actor.film..film.performance.character
+
+where did jeff dunham go to school?
+jeff dunham
+m.0ch_0g
+people.person.education..education.education.institution
+
+what college did kevjumba?
+kevjumba
+m.047p6rh
+people.person.education..education.education.institution
+
+what did gregor mendel conducted his experiments on?
+gregor mendel
+m.039c5
+book.author.works_written
+
+what books did beverly cleary right?
+beverly cleary
+m.018rv0
+book.author.works_written
+
+where is the 2012 ncaa basketball tournament?
+ncaa basketball
+m.0gh43
+book.author.works_written
+
+what kind of books does nicholas sparks wrote?
+nicholas
+m.0328bl
+book.author.works_written
+
+what did michael faraday accomplish?
+michael faraday
+m.04zt0
+book.author.works_written
+
+what experiments did marie curie conduct?
+marie curie
+m.053_d
+book.author.works_written
+
+what is the name of book written by helen keller?
+helen keller
+m.03ppx
+book.author.works_written
+
+what does the letters eu stand for?
+eu
+m.02jxk
+book.author.works_written
+
+what is the work of charles darwin?
+charles darwin
+m.01lwx
+book.author.works_written
+
+what books did emily dickinson wrote?
+emily dickinson
+m.01509d
+book.author.works_written
+
+who did jon gosselin cheat with?
+jon gosselin
+m.046s1z1
+celebrities.celebrity.sexual_relationships..celebrities.romantic_relationship.celebrity
+
+where is the thames river located?
+thames river
+m.0d2kt
+location.location.containedby
+
+what school did william shakespeare attend?
+william shakespeare
+m.081k8
+people.person.education..education.education.institution
+
+what money do they use in chile?
+chile
+m.01p1v
+location.country.currency_used
+
+what movies did diana ross play in?
+diana ross
+m.01wrcxr
+film.actor.film..film.performance.film
